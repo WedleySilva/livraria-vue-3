@@ -1,5 +1,5 @@
 <script setup></script>
 
 <template>
-  <h1>Livros</h1>
+  <h1>Editoras</h1>
 </template>
